@@ -7,9 +7,9 @@
 <source src="https://github.com/TomMckerrow/Dash-Documentary-Scammer/blob/main/thedocmed.mp4?raw=true" type="video/mp4">
 </video>
 [Download the video here](https://github.com/TomMckerrow/Dash-Documentary-Scammer/blob/main/thedocmed.mp4?raw=true)<br>
-<b>Archived forum threads:<b>
-<b>Bitcoin Talk:<b> <https://web.archive.org/web/20210123075355/https://bitcointalk.org/index.php?topic=5309847.0>
-<b>DASH Forum:<b> <https://web.archive.org/web/20210128082127/https://www.dash.org/forum/threads/tom-mckerrow-accused-dash-treasury-scammer-and-others.51220/>
+<b>Archived forum threads:<b><br>
+<b>Bitcoin Talk:<b> <https://web.archive.org/web/20210123075355/https://bitcointalk.org/index.php?topic=5309847.0><br>
+<b>DASH Forum:<b> <https://web.archive.org/web/20210128082127/https://www.dash.org/forum/threads/tom-mckerrow-accused-dash-treasury-scammer-and-others.51220/><br>
 <hr>
 <b>ORIGINAL FORUM THREAD (now deleted)</b>
 <hr>
