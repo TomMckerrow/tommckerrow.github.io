@@ -1,4 +1,4 @@
-# Tom Mckerrow of Bristol, UK - DASH Treasury Scammer
+# Tom Mckerrow of Bristol
 
 ### In this document, I describe the details that transpired concerning the theft of 60,000 GBP from the DASH Treasury by Tom Mckerrow from Bristol, UK.
 
@@ -7,9 +7,9 @@
 <source src="https://github.com/TomMckerrow/Dash-Documentary-Scammer/blob/main/thedocmed.mp4?raw=true" type="video/mp4">
 </video>
 [Download the short video version here](https://github.com/TomMckerrow/Dash-Documentary-Scammer/blob/main/thedocmed.mp4?raw=true)
---------------------
+<hr>
 ORIGINAL FORUM THREAD (now deleted)
---------------------
+<hr>
 Tom Mckerrow of Bristol, UK *(https://uk.linkedin.com/in/tommckerrow)* and his team was one of many Dash Treasury proposals in what was one of the most legendary years for bitcoin, 2017.
 
 In the beginning, Tom seemed to uphold a professional front, but only one year later it would seem that any work on the documentary had mysteriously vanished and all of the accounts associated with the project went dead.
