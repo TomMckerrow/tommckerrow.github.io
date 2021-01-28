@@ -10,7 +10,7 @@
 <hr>
 <b>ORIGINAL FORUM THREAD (now deleted)</b>
 <hr>
-Tom Mckerrow of Bristol, UK *<https://uk.linkedin.com/in/tommckerrow>* and his team was one of many Dash Treasury proposals in what was one of the most legendary years for bitcoin, 2017.
+Tom Mckerrow of Bristol, UK *(<https://uk.linkedin.com/in/tommckerrow>)* and his team was one of many Dash Treasury proposals in what was one of the most legendary years for bitcoin, 2017.
 
 In the beginning, Tom seemed to uphold a professional front, but only one year later it would seem that any work on the documentary had mysteriously vanished and all of the accounts associated with the project went dead.
 
