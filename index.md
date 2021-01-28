@@ -6,9 +6,9 @@
 <video width="100%" controls>
 <source src="https://github.com/TomMckerrow/Dash-Documentary-Scammer/blob/main/thedocmed.mp4?raw=true" type="video/mp4">
 </video>
-[Download the short video version here](https://github.com/TomMckerrow/Dash-Documentary-Scammer/blob/main/thedocmed.mp4?raw=true)
+[Download the video here](https://github.com/TomMckerrow/Dash-Documentary-Scammer/blob/main/thedocmed.mp4?raw=true)
 <hr>
-ORIGINAL FORUM THREAD (now deleted)
+<b>ORIGINAL FORUM THREAD (now deleted)</b>
 <hr>
 Tom Mckerrow of Bristol, UK *(https://uk.linkedin.com/in/tommckerrow)* and his team was one of many Dash Treasury proposals in what was one of the most legendary years for bitcoin, 2017.
 
