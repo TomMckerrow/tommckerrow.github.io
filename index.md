@@ -75,7 +75,7 @@ Once Nick had been kicked off the project there was some dispute about paying hi
 
 Let me stress how Tom and Liam scammed Nick out of his project and it's funding.
 
-It was shortly after this that they employed Phillip Wiseman (personal friend of Liam) and a woman called Rachael Hall, all three of the boys can be pictured here:<br>
+It was shortly after this that they employed Phillip Wiseman *(personal friend of Liam)* and a woman called Rachael Hall, all three of the boys can be pictured here:<br>
 https://i2-prod.bristolpost.co.uk/incoming/article2106251.ece/ALTERNATES/s810/1_JS165350701.jpg<br>
 *Tom on the left, Phillip in the middle, Liam on the right.*
 
