@@ -10,49 +10,49 @@
 <hr>
 <b>ORIGINAL FORUM THREAD (now deleted)</b>
 <hr>
-Tom Mckerrow of Bristol, UK *(https://uk.linkedin.com/in/tommckerrow)* and his team was one of many Dash Treasury proposals in what was one of the most legendary years for bitcoin, 2017.
+Tom Mckerrow of Bristol, UK *(<https://uk.linkedin.com/in/tommckerrow>)* and his team was one of many Dash Treasury proposals in what was one of the most legendary years for bitcoin, 2017.
 
 In the beginning, Tom seemed to uphold a professional front, but only one year later it would seem that any work on the documentary had mysteriously vanished and all of the accounts associated with the project went dead.
 
-What started as a proposal for a documentary called "Dash Documentary" on the Nov 5, 2017, would evolve into "Beyond Bitcoin" by the 1st of February 2018 and finally "The Trust Protocol" around the 13th of May 2019 as detailed in this very revealing video interview of Tom by CoinScheduleTV; https://www.youtube.com/watch?v=zhl1QU10zCg
+What started as a proposal for a documentary called "Dash Documentary" on the Nov 5, 2017, would evolve into "Beyond Bitcoin" by the 1st of February 2018 and finally "The Trust Protocol" around the 13th of May 2019 as detailed in this very revealing video interview of Tom by CoinScheduleTV; <https://www.youtube.com/watch?v=zhl1QU10zCg>
 
 **The Original proposal:**<br>
-https://www.pdf-archive.com/2017/11/04/dash-documentary-proposal/dash-documentary-proposal.pdf
+<https://www.pdf-archive.com/2017/11/04/dash-documentary-proposal/dash-documentary-proposal.pdf>
 
 **Original documentary update thread:**<br>
-https://www.dash.org/forum/threads/dash-documentary-update-thread.19918/ *(towards the end of the thread and to be honest even early on you can clearly see how confidence in Tom who we believe operated the forum account dropped dramatically)*
+<https://www.dash.org/forum/threads/dash-documentary-update-thread.19918/> *(towards the end of the thread and to be honest even early on you can clearly see how confidence in Tom who we believe operated the forum account dropped dramatically)*
 
 **Original treasury proposal:**<br>
-https://www.dashtreasury.org/p-3075.prop *(now a dead link)*
+<https://www.dashtreasury.org/p-3075.prop> *(now a dead link)*
 
-As mentioned prior things seemed to start well, albeit a little slow, one of the first short pieces of film they produced for us was for the DASH Poker Tournament in Portland Meadows, Oregon; https://www.youtube.com/watch?v=0WKe3DtQ7j4
+As mentioned prior things seemed to start well, albeit a little slow, one of the first short pieces of film they produced for us was for the DASH Poker Tournament in Portland Meadows, Oregon; <https://www.youtube.com/watch?v=0WKe3DtQ7j4>
 
-The production quality was impressive and with high expectations we saw Tom Mckerrow and his partner Liam Turner *(https://uk.linkedin.com/in/liturn) (who operating as the chief production manager at the time, filming and editing much of the content)* travel to many conventions worldwide for on our behalf.
+The production quality was impressive and with high expectations we saw Tom Mckerrow and his partner Liam Turner *(<https://uk.linkedin.com/in/liturn>) (who operating as the chief production manager at the time, filming and editing much of the content)* travel to many conventions worldwide for on our behalf.
 
 Personally, we started to get concerning feedback after a number of their abroad stints where a few individuals reported that Tom Mckerrow had been using cocaine, in what seemed to be a fairly frequent manner, that a few individuals reported strange conversations with him when he appeared to be high on drugs concerning topics about Aleister Crowley and black magic, and jokes being overheard among him which were of a concerning pedophilic nature. A few higher status members at a few conventions he attended reported that they had suspicions he had been inappropriately filming them on his phone camera without their knowledge and that it had made them feel uncomfortable. This really is just a fragment of the feedback we received which we found deeply concerning.
 
 It was at this point we started to question the people we had allowed allocated a significant amount of budget to.
 
-And then in mid-June of 2019 everything went silent, we noticed that the YouTube channel hosting the original DASH Poker Tournament video had changed its name to "OracleFilmsUncensored" and now operated on a new branded YouTube URI; https://www.youtube.com/c/OracleFilmsUncensored
+And then in mid-June of 2019 everything went silent, we noticed that the YouTube channel hosting the original DASH Poker Tournament video had changed its name to "OracleFilmsUncensored" and now operated on a new branded YouTube URI; <https://www.youtube.com/c/OracleFilmsUncensored>
 
-After some investigation, it turns out this is a company run by Tom's chief of production Liam Turner which still operates today at; https://www.oraclefilms.com/ it is a company that seems to mostly be involved in the production of videos for the CryptoNites YouTube channel; https://www.youtube.com/channel/UCNSkZw-VE23ew71bkZwqF7w
+After some investigation, it turns out this is a company run by Tom's chief of production Liam Turner which still operates today at; <https://www.oraclefilms.com/> it is a company that seems to mostly be involved in the production of videos for the CryptoNites YouTube channel; <https://www.youtube.com/channel/UCNSkZw-VE23ew71bkZwqF7w>
 
-I think the real kick in the teeth was when we discovered just three months after the radio silence that Tom had been reselling the video content that he had been filming as part of our treasury agreement to produce a documentary about primarily DASH as well as other cryptocurrencies to https://bloxlive.tv as you can see in one video here; https://bloxlive.tv/video/MTE1Ng==/brock-pierce-on-the-past-present-and-future-of-the-crypto-space
+I think the real kick in the teeth was when we discovered just three months after the radio silence that Tom had been reselling the video content that he had been filming as part of our treasury agreement to produce a documentary about primarily DASH as well as other cryptocurrencies to <https://bloxlive.tv> as you can see in one video here; <https://bloxlive.tv/video/MTE1Ng==/brock-pierce-on-the-past-present-and-future-of-the-crypto-space>
 
 By all means, we certainly feel like Tom Mckerrow fleeced us and that much of the budget we gave him went vastly unaccounted for.
 
 **Various links once operated by Tom Mckerrow and his team:**<br>
-https://www.apollo.io/people/Tom/McKerrow/54a5c3077468693442a804a6<br>
-https://www.linkedin.com/company/beyond-bitcoin-film<br>
-https://www.facebook.com/beyondbitcoinfilm/<br>
-https://www.instagram.com/beyondbitcoinfilm/<br>
-http://beyondbitcoinfilm.com<br>
-http://dogandbird.io<br>
-https://twitter.com/dogandbirdmedia<br>
-https://twitter.com/bitcoin_film<br>
-https://twitter.com/infin8mindst8<br>
-https://www.bristolpost.co.uk/news/bristol-news/mr-wolfs-first-accept-bitcoin-2102741<br>
-https://medium.com/@beyondbitcoinfilm<br>
+<https://www.apollo.io/people/Tom/McKerrow/54a5c3077468693442a804a6><br>
+<https://www.linkedin.com/company/beyond-bitcoin-film><br>
+<https://www.facebook.com/beyondbitcoinfilm/><br>
+<https://www.instagram.com/beyondbitcoinfilm/><br>
+<http://beyondbitcoinfilm.com><br>
+<http://dogandbird.io><br>
+<https://twitter.com/dogandbirdmedia><br>
+<https://twitter.com/bitcoin_film><br>
+<https://twitter.com/infin8mindst8><br>
+<https://www.bristolpost.co.uk/news/bristol-news/mr-wolfs-first-accept-bitcoin-2102741><br>
+<https://medium.com/@beyondbitcoinfilm><br>
 
 --------------------
 RESPONSE TO ORIGINAL THREAD BY USER "FreddieW"
