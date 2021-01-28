@@ -99,7 +99,7 @@ Tom has been living off the remainder of the funding he had gotten from the docu
 
 Tom is just a child, when anything goes wrong he just cries down the phone to his mommy and daddy, and when it all went tits up they paid off his 10,000 GBP Barclays business loan for him even though he had the funds to pay it off in Bitcoin the entire time.
 
-You know, they could have achieved so much more, all of the footage they had filmed alone could have been cut up into 5-10 minute shorts and uploaded to a YoutTube channel but none of this happened, they just made low-quality social media reposts and such. They did get a lot of brilliant footage they were just too stupid to do anything constructive with it, they had a lot of ego, a lot of narcissism, and truly thought that they knew best.
+You know, they could have achieved so much more, all of the footage they had filmed alone could have been cut up into 5-10 minute shorts and uploaded to a YouTube channel but none of this happened, they just made low-quality social media reposts and such. They did get a lot of brilliant footage they were just too stupid to do anything constructive with it, they had a lot of ego, a lot of narcissism, and truly thought that they knew best.
 
 Tom ended up blinding me in one eye with a 10mw green laser, I've lost 30% of the vision in my right eye, that's why I've decided to come out and tell you all how this went down, he's a useless spoiled little shit who deliberately blinded me in one eye with a laser he knew would cause permanent eye damage. The laser had a warning on it and a key system to activate it, I had also obviously pre-warned him before letting him use the laser.
 
