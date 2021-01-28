@@ -60,7 +60,7 @@ By all means, we certainly feel like Tom Mckerrow fleeced us and that much of th
 <https://medium.com/@beyondbitcoinfilm><br>
 
 --------------------
-RESPONSE TO ORIGINAL THREAD BY USER "FreddieW"
+<b>RESPONSE TO ORIGINAL THREAD BY USER "FreddieW"</b>
 <hr>
 
 Originally the idea for a DASH documentary came from Nick Hopton, a larger than life fellow from Bristol mentioned in the following news article;
@@ -147,7 +147,7 @@ PAT testing lol, no pat stickers on anything, utter lies, they did get premium m
 It's all just total fabricated manure. Tom Mckerrow is not the kind of person who should be trusted with a large budget he is a child and suffers from a terrible cocaine addiction.
 
 --------------------
-RESPONSE TO ORIGINAL THREAD BY USER "FreddieW"
+<b>RESPONSE TO ORIGINAL THREAD BY USER "FreddieW"</b>
 <hr>
 
 An update;
