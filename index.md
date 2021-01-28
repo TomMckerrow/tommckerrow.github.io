@@ -140,3 +140,27 @@ PAT testing lol, no pat stickers on anything, utter lies, they did get premium m
 > £4,000 – Stock footage licensing, domain purchase, online premium membership (Vimeo, Linkedin), software licensing and plugins, PAT Testing equipment,
 
 It's all just total fabricated manure. Tom Mckerrow is not the kind of person who should be trusted with a large budget he is a child and suffers from a terrible cocaine addiction.
+
+--------------------
+RESPONSE TO ORIGINAL THREAD BY USER "FreddieW"
+--------------------
+
+An update;
+
+As you can see the subject of the DASH Treasury scam is not without it's lash-back.
+
+The way it's all panning out now is we have Alex Fazel, Liam Turner and Tom Mckerrow trying and fight against the truth coming to light, because for them it is damaging.
+
+Alex Fazel has taken an interest because he now employs Liam Turner via Oracle Films on his YouTube series Cryptonites and in turn Liam Turner is interested because of his past association to Tom Mckerrow and the documentary project in question.
+
+It is quite simple, if Liam Turner does not like the negative light this story is casting upon him he is more than welcome to join this forum and explain why there is no documentary, and that if they really did "loose the footage" as they claim, then why did they not have a backup or fail-safe for this occurrence which they specified as part of their original budget?
+
+> £2,000 – Insurance. This is the big essential, we want to make sure that if anything happens to equipment or footage, that the insurance covers replacement and ability to reshoot (God forbid). As well as travel insurances, public liability and employee insurance.
+
+I believe that the footage still exists, I don't believe Tom Mckerrow was due-diligent enough to have overseen that a backup was made in his possession but I do believe Liam Turner who Tom in his own confidence left in complete control of the footage had indeed been making backups.
+
+I believe, as did Tom Mckerrow at the time, that Liam Turner is withholding the footage that they had filmed for the Dash Documentary for his own personal gain, and until proven otherwise, that is the assumption all angles point towards.
+
+There are many questions these two individuals need to answer, I don't think that it is satisfactory enough for them to just claim "we lost the footage". It is an appalling excuse and complete abuse of the DASH Treasury system.
+
+As far as I see, this is a matter of three very unprofessional people trying to worm their way out of responsibility. Alex Fazel may be unfortunate to have established a working relationship with both Tom Mckerrow and Liam Turner in March of 2019 because it would not be until later on in that year that the clear non-arrival of a documentary would take place. But it does not change the fact that these are decisions Alex made, as unfortunate as they are his unprofessional disregard to this fact is not only disgraceful but also demonstrates much contempt towards the justice that is being seeked here today. **As for Liam he is an individual who has no excuses, he played a pivotal role in the documentary footage never coming to light** and as such the documentary project signaling a clear end. Although I can personally attest that by May of 2019 when Tom and Liam both re-branded the documentary to "The Trust Protocol" neither of them demonstrated any intention to uphold their original agreement to base the documentary around the DASH project. Rather they were just making a regular cryptocurrency documentary that they postulated selling to Netflix.
