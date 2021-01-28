@@ -56,7 +56,7 @@ By all means, we certainly feel like Tom Mckerrow fleeced us and that much of th
 
 --------------------
 RESPONSE TO ORIGINAL THREAD BY USER "FreddieW"
---------------------
+<hr>
 
 Originally the idea for a DASH documentary came from Nick Hopton, a larger than life fellow from Bristol mentioned in the following news article;
 <https://www.dailyecho.co.uk/news/14708313.lovestruck-poster-boy-nick-hopton-strikes-it-lucky-after-tracking-down-boomtown-festival-love-freya/>
@@ -143,7 +143,7 @@ It's all just total fabricated manure. Tom Mckerrow is not the kind of person wh
 
 --------------------
 RESPONSE TO ORIGINAL THREAD BY USER "FreddieW"
---------------------
+<hr>
 
 An update;
 
