@@ -113,7 +113,7 @@ I'm just saying, I knew this guy for quite a while and it's all true, he was alw
 
 -----------------------------------------------------------
 
-When he got the budget the first thing Tom Mckerrow did was spend thousands of pounds of it decking his home out with multiple massive 4k TV screens, audio systems, etc, it was the most retarded thing I had ever seen, yet he neglected to replace his broken old sofa which he forced his guests to sit on.
+The first thing Tom Mckerrow did when he obtained the budget was spend thousands of pounds of it decking his home out with multiple massive 4k TV screens, audio systems, etc, it was the most retarded thing I had ever seen, yet he neglected to replace his broken old sofa which he forced his guests to sit on.
 
 His budget breakdown on the DASH documentary was a total fabrication to cover up his excess spending on himself;<br>
 <https://www.dash.org/forum/threads/dash-documentary-update-thread.19918/>
