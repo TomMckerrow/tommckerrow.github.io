@@ -10,7 +10,7 @@
 <hr>
 <b>ARCHIVED FORUM THREADS<b>
 <hr>
-<br><b>Bitcoin Talk:<b><br><https://web.archive.org/web/20210123075355/https://bitcointalk.org/index.php?topic=5309847.0><br>
+<b>Bitcoin Talk:<b><br><https://web.archive.org/web/20210123075355/https://bitcointalk.org/index.php?topic=5309847.0><br>
 <br><b>DASH Forum:<b><br><https://web.archive.org/web/20210128082127/https://www.dash.org/forum/threads/tom-mckerrow-accused-dash-treasury-scammer-and-others.51220/><br>
 <hr>
 <b>ORIGINAL FORUM THREAD (now deleted)</b>
