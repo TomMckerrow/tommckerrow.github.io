@@ -1,4 +1,4 @@
-# Tom Mckerrow of Bristol
+## Tom Mckerrow of Bristol, UK - DASH Treasury Scammer
 
 ### In this document, I describe the details that transpired concerning the theft of 60,000 GBP from the DASH Treasury by Tom Mckerrow from Bristol, UK.
 
