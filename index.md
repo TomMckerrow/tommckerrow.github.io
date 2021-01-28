@@ -59,7 +59,7 @@ RESPONSE TO ORIGINAL THREAD BY USER "FreddieW"
 --------------------
 
 Originally the idea for a DASH documentary came from Nick Hopton, a larger than life fellow from Bristol mentioned in the following news article;
-https://www.dailyecho.co.uk/news/14708313.lovestruck-poster-boy-nick-hopton-strikes-it-lucky-after-tracking-down-boomtown-festival-love-freya/
+<https://www.dailyecho.co.uk/news/14708313.lovestruck-poster-boy-nick-hopton-strikes-it-lucky-after-tracking-down-boomtown-festival-love-freya/>
 
 Nick Hopton was an early investor in DASH and proposed the original idea to submit the proposal to the Dash Treasury using his 50 DASH. At that time Nick was undergoing some medical issues and after an operation had to take some time off in recovery. During this period he trusted Tom Mckerrow with the funds for the entire project.
 
@@ -68,7 +68,7 @@ This is when Tom Mckerrow decided to steal the entire project funding and essent
 While Tom was taking advantage of Nick, Liam was taking advantage of Tom. Liam is no part of this is innocent, in fact, he is the person who eventually out of spite made sure the footage they had filmed for the documentary would never see the light of day, apart from a few videos Tom had personally backed-up.
 
 They did work with nick for a while and I think they paid nick some salary but it was not long until they completely kicked him off the project, and disregarded any footage he had filmed claiming it was "all blurry and out of focus", here is a photo of Nick when he went to visit Dan Hughes of RadixDLT for the dash documentary:<br>
-https://twitter.com/fuserleer/status/996851218243883008/photo/1<br>
+<https://twitter.com/fuserleer/status/996851218243883008/photo/1><br>
 *Nick is sitting on the bench while his friend Thomas is operating the camera.*
 
 Once Nick had been kicked off the project there was some dispute about paying him back the original 50 DASH investment which Tom and Liam eventually resentfully paid back to him.
@@ -76,7 +76,7 @@ Once Nick had been kicked off the project there was some dispute about paying hi
 Let me stress how Tom and Liam scammed Nick out of his project and it's funding.
 
 It was shortly after this that they employed Phillip Wiseman *(personal friend of Liam)* and a woman called Rachael Hall, all three of the boys can be pictured here:<br>
-https://i2-prod.bristolpost.co.uk/incoming/article2106251.ece/ALTERNATES/s810/1_JS165350701.jpg<br>
+<https://i2-prod.bristolpost.co.uk/incoming/article2106251.ece/ALTERNATES/s810/1_JS165350701.jpg><br>
 *Tom on the left, Phillip in the middle, Liam on the right.*
 
 There are not many photos of Rachael remaining because Tom fell out with her and he erased any evidence of her from all social media, although originally she was a core part of the team and in many of the photographs they took.
@@ -116,7 +116,7 @@ I'm just saying, I knew this guy for quite a while and it's all true, he was alw
 When he got the budget the first thing Tom Mckerrow did was spend thousands of pounds of it decking his home out with multiple massive 4k TV screens, audio systems, etc, it was the most retarded thing I had ever seen, yet he neglected to replace his broken old sofa which he forced his guests to sit on.
 
 His budget breakdown on the DASH documentary was a total fabrication to cover up his excess spending on himself;<br>
-https://www.dash.org/forum/threads/dash-documentary-update-thread.19918/
+<https://www.dash.org/forum/threads/dash-documentary-update-thread.19918/>
 
 This was a straight-up lie, they paid no deposit and managed to haggle the rent down, it was not 1,800 per month, I heard 1,600 thrown around a few times but I doubt it was even near that. There were no agency fee's because Tom already knew Mr Wolf prior, this is just tom packing out the budget to cover his abuse of the funding:
 > £5,900 office budget - We are hiring more staff than we originally planned, this is because the rise in the value of Dash has allowed us to bring more people on. We have to get a bigger office to accommodate them, which is located in a well-connected area of Bristol. The rent is £1,800 per month, with a 2-month deposit upfront, plus agency fees of £500. The Room is in a converted tax office which we think will add an interesting intro to the dialog, making a documentary about the future of money in an office that used to house an institute of old money, we like it anyway.
@@ -129,8 +129,8 @@ Obviously, anyone who saw their website, it was garbage, loaded slow the entire 
 > £7,000-£10,000 – The development and maintenance of the documentary website, an article website for current news, and a comprehensive blog to accommodate all forms of updates on the documentary. This also includes the cost of web-hosting. This isn’t to be spent in a single session, but rather over the course of the next few months.
 
 **Archive.org backups of their original website:**<br>
-15th of March 2018: https://web.archive.org/web/20180315173214/http://beyondbitcoinfilm.com/<br>
-18th of January 2019: https://web.archive.org/web/20190118231317/http://beyondbitcoinfilm.com/<br>
+15th of March 2018: <https://web.archive.org/web/20180315173214/http://beyondbitcoinfilm.com/><br>
+18th of January 2019: <https://web.archive.org/web/20190118231317/http://beyondbitcoinfilm.com/><br>
 **Spot the difference.**<br>
 
 This was obviously never spent, there was no insurance and no footage backup:
